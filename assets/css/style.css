@@ -1,0 +1,26 @@
+.contentWrapper{
+	width:960px;
+}
+
+.movieButtons > *{
+	margin:5px;
+	background-color:teal;
+	border-radius:4px;
+	color:white;
+	border:none;
+	padding:5px 10px 5px 10px;
+	float:left;
+}
+.inputWrapper{
+	float:right;
+}
+input{
+	margin:10px;
+}
+button{
+	margin:10px;
+}
+.movies-view{
+	clear:both;
+	margin:10px;
+}
